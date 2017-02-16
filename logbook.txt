@@ -1,0 +1,642 @@
+    1  sudo apt-get update
+    2  sudo apt-get install kodi
+    3  sudo apt-get install kodi --fix-missing
+    4  sudo apt-get upgrade
+    5  sudo apt-get update
+    6  sudo apt-get install kodi
+    7  sudo apt-get install kodi --fix-missing
+    8  kodi
+    9  ll
+   10  nano ~/.bash_profile
+   11  source ~/.bash_profile
+   12  ll
+   13  cal
+   14  apt-get install speedtest_cli
+   15  sudo apt-get install speedtest_cli
+   16  sudo apt-get install speedtest
+   17  sudo apt-get install update
+   18  sudo apt-get update
+   19  cal 2017
+   20  apt-get list
+   21  man apt-get
+   22  apt-cache pkgnames
+   23  sudo apt-get install speedtest
+   24  ll
+   25  cd Desktop/
+   26  nano test.txt
+   27  apt-cache pkgnames >> test.txt
+   28  sudo apt-get install ebook-speaker
+   29  ebook-speaker
+   30  python
+   31  ls
+   32  cd Desktop/[B
+   33  nano test.txt 
+   34  clear
+   35  sudo apt-get install speedtest-cli
+   36  speedtest
+   37  sudo apt-get install transmission
+   38  sudo apt-get install transmission --fix-missing
+   39  sudo apt-get install transmission
+   40  sudo apt-get update
+   41  sudo apt-get install transmission 
+   42  sudo apt-get install atom
+   43  sudo apt-get install transmission --fix-missing
+   44  transmission
+   45  curl https://www.dataplicity.com/7ycyc95v.py | sudo python
+   46  curl https://www.dataplicity.com/7ycic95v.py | sudo python
+   47  cd home/pi/Desktop
+   48  ls
+   49  nano test.txt
+   50  ls
+   51  nano test.txt
+   52  cd home/pi/Desktop
+   53  mkdir sashabelan
+   54  cd sashabelan
+   55  cd ..
+   56  cp test.txt >> sashabelan
+   57  cp test.txt > sashabelan
+   58  cp test.txt  sashabelan
+   59  ls
+   60  cd sashabelan
+   61  ls
+   62  cd ..
+   63  rm test.txt
+   64  ls
+   65  cd sashabelan
+   66  less test.txt
+   67  speedtest
+   68  cal 2017
+   69  wget
+   70  wget test.txt
+   71  man wget
+   72  apt-get install ranger
+   73  su apt-get install ranger
+   74  sudo apt-get install ranger
+   75  ranger
+   76  w3m www.sasha.com.ru
+   77  man w3m
+   78  w3m www.yandex.ru
+   79  date
+   80  date > test.txt
+   81  less test.txt
+   82  ls
+   83  nano test.txt
+   84  date >> test.txt
+   85  less test.txt
+   86  nano test.ttx
+   87  nano test.txt
+   88  cd ..
+   89  ls
+   90  nano test1.txt
+   91  cat test1.txt > /sashabelan/test.txt
+   92  ls
+   93  cat test1.ttx > /sashabelan/test.txt
+   94  cat test1.ttx > ~/home/pi/Desktop/sashabelan/test.txt
+   95  cd sashabelan
+   96  ls
+   97  cd ..
+   98  cat test1.txt  /sashabelan/test.txt
+   99  cat test1.txt /sashabelan/test.txt
+  100  cp test1.txt /sashabelan/test.txt
+  101  cat test1.txt sashabelan/test.txt
+  102  cd sashabelan
+  103  nano test.txt
+  104  cd ..
+  105  nano test1.txt
+  106  cat test1.txt sashabelan/test.txt
+  107  cat test1.txt > sashabelan/test.txt
+  108  cd sashabelan
+  109  nano test.txt
+  110  df
+  111  du -sh
+  112  whois www.sashabelan.com
+  113  whois www.kia.ru
+  114  wget test.txt
+  115  uptime
+  116  whoami
+  117  history
+  118  python
+  119  passwd pi
+  120  reboot
+  121  cd ~/
+  122  ls
+  123  cd ..
+  124  ls
+  125  cd ..
+  126  ls
+  127  cd ..
+  128  ls
+  129  cd home/pi/
+  130  ls
+  131  cd Desktop/
+  132  ls
+  133  cd sashabelan/
+  134  ls
+  135  logout
+  136  exit
+  137  sudo apt-get install espeak
+  138  sudo espeak "Hello"
+  139  sudo raspi-config
+  140  sudo espeak "Hello"
+  141  do speak "hello"
+  142  espeak "hello"
+  143  sudo espeak "hello"
+  144  sudo espeak "Nastya, let's go smoke"
+  145  sudo espeak "Nastya, I love you baby"
+  146  espeak "hello"
+  147  espeak "Nastya, i love you baby"
+  148  espeak "and if it's quite alright"
+  149  espeak "Be love"
+  150  man espeak
+  151  espeak "Саша"
+  152  espeak "Настя, я тебя люблю"
+  153  espeak "Настя, я тебя очень люблю"
+  154  espeak "Идем кушать блинчики"
+  155  man espeak
+  156  espeak --voices<russian>
+  157  espeak --voices
+  158  espeak "hello"
+  159  espeak "who are you?
+  160  espeak "who are you?
+  161  espeak "who are you?
+  162  espeak "who are you?
+  163  espeak "who arr you?"
+  164  espeak "fuck you"
+  165  espeak "Nastyaaaaaa"
+  166  espeak "Nastyaaaaaaaaaaaaaaaaaaaaa"
+  167  espeak "Nastyaaaaaaaaaaaaaaaaaaaaah"
+  168  espeak "курим?"
+  169  espeak "Be love"
+  170  espeak "Be love ah"
+  171  espeak "qapla"
+  172  sudo apt-get install pytone
+  173  pytone
+  174  kodi
+  175  exit
+  176  quit
+  177  logout
+  178  exit
+  179  desktop
+  180  pkill x
+  181  startx
+  182  pkill x
+  183  startx
+  184  sudo startx
+  185  ls
+  186  raspi-config
+  187  sudo raspi-config
+  188  sudo startx
+  189  espeak "30 seconds"
+  190  espeak "25 seconds"
+  191  espeak "20 seconds"
+  192  espeak "15 seconds"
+  193  espeak "10 seconds"
+  194  espeak "5 seconds"
+  195  espeak "nowespeak "5 seconds"espeak "5 seconds"!"
+  196  espeak now
+  197  espeak "nowespeak "5 seconds"espeak "5 seconds"!"
+  198  espeak fuck now
+  199  espeak "loosing my temper"
+  200  nano ~/.bash_profile
+  201  source ~/.bash_profile
+  202  ll
+  203  cd home
+  204  cd pi
+  205  cd Desktop/
+  206  cd
+  207  sudo raspi-config
+  208  ll
+  209  ls
+  210  cd python_games/
+  211  python starpusher.py 
+  212  python squirrel.py 
+  213  python simulate.py 
+  214  w3m Wood_Block_Tall.png 
+  215  sudo reboot
+  216  ll
+  217  ll
+  218  ls
+  219  nano test1.txt 
+  220  ll
+  221  ls
+  222  su pi
+  223  ls
+  224  cd Desktop/
+  225  ll
+  226  nano test1.txt 
+  227  espeak £
+  228  espeak hello
+  229  espeak nastya
+  230  espeak nastya
+  231  espeak smoke
+  232  espeak smoke
+  233  espeak ok
+  234  espeak ok
+  235  espeak now
+  236  espeak now
+  237  espeak now
+  238  espeak 30 seconds
+  239  espeak 30 second
+  240  espeak 30 sec
+  241  espeak 30 secunda
+  242  espeak 5 sec
+  243  startx
+  244  ll
+  245  ls -alt
+  246  espeak Nastya
+  247  ll
+  248  ls
+  249  ll
+  250  cd home
+  251  ll
+  252  nano ~/.bash_profile
+  253  ll
+  254  source ~/.bash_profile
+  255  ll
+  256  cd pi
+  257  cd Desktop/
+  258  nano test1.txt 
+  259  sudo apt-get install nginx
+  260  sudo netstat -an | grep LISTEN | grep :80
+  261  sudo service nginx restart
+  262  ll
+  263  ls
+  264  cd home
+  265  ls
+  266  cd pi
+  267  ls
+  268  sudo apt-get install apache2
+  269  sudo mkdir /var/www/webdav
+  270  cd var/www
+  271  cd var
+  272  ls
+  273  cd ..
+  274  ls
+  275  cd ..
+  276  ls
+  277  cd var
+  278  ls
+  279  cd www
+  280  ls
+  281  cd html
+  282  ls
+  283  nano index.html
+  284  ls
+  285  cclear
+  286  clear
+  287  ls
+  288  nano index.nginx-debian.html 
+  289  logout
+  290  exit
+  291  nano index.nginx-debian.html 
+  292  sudo apt-get install ruby
+  293  sudo gem install scout_realtime
+  294  sodo service nginx stop
+  295  sudo service nginx stop
+  296  sudo scout_realtime --port 80
+  297  sudo apt-get install ufw
+  298  sudo ufw enable
+  299  sudo service nginx restart
+  300  sodo service nginx start
+  301  sudo service nginx start
+  302  sudo service nginx restart
+  303  exit
+  304  so service nginx restart
+  305  sudo service nginx restart
+  306  sudo service scout_realtime stop
+  307  kill scout_realtime
+  308  pid
+  309  nginx
+  310  ll
+  311  source ~/.bash_profile
+  312  ll
+  313  cd home
+  314  cd pi
+  315  cd Desktop/
+  316  nano test1.txt 
+  317  cd /var/www/
+  318  ls
+  319  cd webdav
+  320  ls
+  321  cd ..
+  322  ls
+  323  cd html
+  324  ls
+  325  cd .
+  326  ls
+  327  cd ..
+  328  ls
+  329  cd ..
+  330  ls
+  331  cd lib
+  332  ls
+  333  cd nginx
+  334  ls
+  335  cd body
+  336  cd ..
+  337  ls
+  338  cd ..
+  339  ls
+  340  cd home
+  341  ls
+  342  cd dataplicity/
+  343  ls
+  344  cd ..
+  345  cd pi
+  346  ls
+  347  cd /var/www/
+  348  ls
+  349  cd htmls
+  350  cd html
+  351  sudo start nginx
+  352  sudo reboot
+  353  ll
+  354  source ~/.bash_profile
+  355  ll
+  356  exit
+  357  nano ~/.bash_profile
+  358  source ~/.bash_profile
+  359  ll
+  360  cd /var/www/html/
+  361  nano index.html 
+  362  hostname -I
+  363  raspi-config
+  364  sudo raspi-config
+  365  hostname -I
+  366  sudo reboot
+  367  hostname -I
+  368  ll
+  369  cd /var/www/html
+  370  sudo apt-get install imgcat
+  371  ranger
+  372  cp /home/Desktop/nginx.html > /var/www/html/index.html
+  373  cp /home/Desktop/nginx.html /var/www/html/index.html
+  374  cp /home/pi/Desktop/nginx.html /var/www/html/index.html
+  375  cd /var/www/html
+  376  nano index.html 
+  377  quit
+  378  exit
+  379  cd /var/www/html
+  380  ls
+  381  nano index.html 
+  382  sudo ifconfig
+  383  ssh dataplicity@192.168.0.105
+  384  ssh pi@192.168.0.105
+  385  ll
+  386  ls
+  387  nano ~/.bash_profile
+  388  ls -FGlAhpt
+  389  ranger
+  390  source ~/.bash_profile
+  391  ll
+  392  source ~/.bash_profile
+  393  ll
+  394  ls -FGlAht
+  395  ls -FGlAhpt
+  396  hostname -I
+  397  ping dex.local
+  398  ping pi
+  399  ping
+  400  ll
+  401  source ~/.besh_profile
+  402  source ~/.bash_profile
+  403  ll
+  404  cd ..
+  405  cd mail
+  406  cd ..
+  407  cd home
+  408  cd pi
+  409  cd Desktop/
+  410  ls
+  411  nano test1.txt 
+  412  man startx
+  413  man ls
+  414  ls -d
+  415  man ls
+  416  ls -h
+  417  ls
+  418  sudo apt-get install git gcc build-essential libsdl1.2-dev
+  419  source ~/.bash_profile
+  420  ll
+  421  cd home/pi/Desktop/
+  422  sudo apt-get install vlc
+  423  vncserver
+  424  ls
+  425  cd Downloads/
+  426  ls
+  427  vlc 480P_2000K_93311371.mp4 
+  428  sudo apt-get install teamviewer
+  429  speedtest
+  430  kill x
+  431  pkill x
+  432  ll
+  433  source ~/.bash_profile
+  434  ll
+  435  startx
+  436  ls
+  437  cd Desktop/
+  438  shutdown
+  439  sudo shutdown
+  440  su pi
+  441  clear
+  442  source ~/.bash_profile
+  443  ll
+  444  cd home
+  445  cd pi
+  446  cd Desktop/
+  447  nano test1.txt 
+  448  source ~/.bash_profile
+  449  lls
+  450  ll
+  451  cd home/pi/Desktop/
+  452  nano test1.txt 
+  453  cat test1.txt 
+  454  cat nginx.html 
+  455  less test1.txt 
+  456  less nginx.html 
+  457  ranger
+  458  ls -altG
+  459  ifconfig | grep inet
+  460  hostname -I
+  461  sudo raspi-config
+  462  hostname -I
+  463  ifconfig
+  464  source ~/.bash_profile
+  465  ll
+  466  cd home/pi/Desktop/sashabelan
+  467  cat test.txt
+  468  speedtest
+  469  uptime
+  470  date
+  471  date > test.txt
+  472  cat test.txt
+  473  history >> test.txt
+  474  cat test.txt
+  475  date > test.txt
+  476  cat test.txt
+  477  history >> test.txt
+  478  date >> test.txt
+  479  cat test.txt
+  480  hostname -I
+  481  sudo raspi-config
+  482  speedtest
+  483  python
+  484  cd /home/pi/Desktop/
+  485  ls
+  486  man nano
+  487  raspi-config
+  488  sudo raspi-config
+  489  hostname -I
+  490  ssh pi@192.168.0.100
+  491  source ~/.bash_profile
+  492  ll
+  493  cd home/pi/Desktop/sashabelan
+  494  cata test.txt
+  495  cat test.txt
+  496  nmap
+  497  sudo apt-get install nmap
+  498  nmap
+  499  nmap -sn 192.168.0.100/24
+  500  nmap -sn 192.168.0.1/255
+  501  nmap -sn 192.168.0.255/24
+  502  nmap -sn 192.168.0.0/150
+  503  nmap -sn 192.168.0.0/32
+  504  nmap -sn 192.168.0.0/24
+  505  hostname -I
+  506  sudo raspi-config
+  507  ls
+  508  cd hme
+  509  ls
+  510  cd home
+  511  ls
+  512  cd pi
+  513  ls
+  514  cd ../../
+  515  ls
+  516  cd sys
+  517  ls
+  518  cd ..
+  519  ls
+  520  cd root
+  521  sudo cd root
+  522  cd /home/pi/Desktop/sashabelan/sashabelan.github.io/images/
+  523  wget http://ww.
+  524  wget http://www.macpriceaustralia.com.au/wp-content/uploads/2015/06macbook-review.jpg
+  525  wget http://www.macpricesaustralia.com.au/wp-content/uploads/2015/06macbook-review.jpg
+  526  wget http://www.macpricesaustralia.com.au/wp-content/uploads/2015/06/macbook-review.jpg
+  527  cd ..
+  528  cd _posts/
+  529  nano 2017-02-14
+  530  nano 2017-02-14-unsplash-photo.md 
+  531  git add -A
+  532  git commit -a
+  533  git
+  534  git push -a
+  535  git push
+  536  nano 2017-02-14-unsplash-photo.md 
+  537  git commit -a
+  538  git push
+  539  cd home/pi/Desktop/sashabelan/
+  540  ls
+  541  cd sashabelan.github.io/
+  542  cd _posts/
+  543  ls
+  544  nano 2017-02-14-unsplash-photo.md 
+  545  ls
+  546  cd home/pi/Desktop/sashabelan/sashabelan.github.io/
+  547  ls -altGH
+  548  nano .git
+  549  cd _layouts/
+  550  ls
+  551  cd ..
+  552  cd public/
+  553  ls
+  554  cd css
+  555  ls
+  556  nano poole.css 
+  557  sudo apt-get install imgcat
+  558  sudo apt-get install update
+  559  sudo apt-get update
+  560  cd home/pi/Desktop/sashabelan/sashabelan.github.io/
+  561  ls -altGH
+  562  nano _config.yml 
+  563  git commit
+  564  git commit -a
+  565  git push
+  566  git push -A
+  567  git push
+  568  git pull
+  569  nano _config.yml 
+  570  git push
+  571  nano _config.yml 
+  572  git commit -a
+  573  git push
+  574  source ~/.bash_profile
+  575  ll
+  576  cd home
+  577  cd pi
+  578  cd Desktop/sashabelan/sashabelan.github.io/
+  579  git status
+  580  git commit -a
+  581  rm _config.yml.save 
+  582  git commit -a
+  583  git status
+  584  ll
+  585  cat README.md 
+  586  cat Markdown.md 
+  587  man
+  588  git
+  589  man
+  590  ls
+  591  sudo raspi-config
+  592  ifconfig
+  593  sudo apt-get install tightvncserver
+  594  tightvncserver
+  595  cd home/pi/Desktop/
+  596  git init
+  597  git clone https://www.github.com/sashabelan.mypi.git
+  598  git clone https://www.github.com/sashabelan.mypi
+  599  git@github.com:sashabelan/mypi.git
+  600  got remote add origin git@github.com:sashabelan/mypi.git
+  601  git remote add origin git@github.com:sashabelan/mypi.git
+  602  git clone https://www.github.com/sashabelan/mypi
+  603  ls
+  604  cd mypi/
+  605  ls
+  606  nano Readme.md
+  607  git push
+  608  git commit -a
+  609  git commit Readme.md 
+  610  git commit Readme.md -a
+  611  git commit -a
+  612  git remote add origin git@github.com:sashabelan/mypi.git
+  613  git push -u origin master
+  614  cd ..
+  615  echo "# mypi" >>Readme.md
+  616  ls
+  617  cat Readme.md 
+  618  git init
+  619  git add Readme.md 
+  620  git commit -m "first commit"
+  621  git remote add origin https://www.github.com/sashabelan/mypi.git
+  622  rm -rf mypi/
+  623  git remote add origin https://www.github.com/sashabelan/mypi.git
+  624  git push -u origin master
+  625  history >> 16feb17.txt
+  626  cat 16feb17.txt 
+  627  ls -FGlAhpt
+  628  cd sashabelan/
+  629  ls
+  630  git clone https://www.github.com/sashabelan/mypi
+  631  ls
+  632  cd mypi/
+  633  ls
+  634  nano readme.md
+  635  git commit -a
+  636  git add
+  637  git add -A
+  638  git add -a
+  639  git add readme.md 
+  640  git commit -a
+  641  git push
+  642  history >> logbook.txt
