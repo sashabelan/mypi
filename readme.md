@@ -2,3 +2,7 @@
 first line of readme.md
 
 second line of readme.md
+```
+s=100
+print s
+```
