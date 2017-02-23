@@ -9,4 +9,4 @@ print s
 
 
 it works!  
-Cool!
+*Cool!*
